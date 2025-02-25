@@ -5,3 +5,4 @@ __pycache__/
 build/
 .venv/
 .DS_Store
+coverage/
