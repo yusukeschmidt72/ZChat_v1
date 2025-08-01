@@ -1,6 +1,6 @@
 {
   "name": "zchat-v1",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "A simple Public Chatroom build with Node.js + Vue.js +QuasarUI",
   "main": "src/index.js",
   "scripts": {
